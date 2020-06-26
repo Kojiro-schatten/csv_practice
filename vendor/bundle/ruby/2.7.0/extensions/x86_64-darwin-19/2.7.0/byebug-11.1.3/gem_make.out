@@ -1,0 +1,19 @@
+current directory: /Users/user/csv_import/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+/Users/user/.rbenv/versions/2.7.1/bin/ruby -I /Users/user/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200625-85347-1agjhkh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/user/csv_import/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/user/csv_import/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/user/csv_import/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200625-85347-1itakpp/byebug
